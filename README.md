@@ -8,5 +8,5 @@ To use the Spammer you must put your login info in the login.json and then run t
 Then just enter your Targets Instagram Post (https://www.instagram.com/p/YOURPOSTID) and the Comment you want to send and it will start sending as fast as it can.
 To stop the Spammer simply close the Programm.
 
-**WARNING** 
+# Warning
 Doing this to often may result in your account being Rate-Limited, which means you will be unable to send Comments for 30 minutes or so.
