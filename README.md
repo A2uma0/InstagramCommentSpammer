@@ -4,7 +4,7 @@
 
 ## Usage:
 
-To use the Spammer you must put your login info in the login.json and then run the python file, either by double click or by typing ``` insta.py ``` or ``` python3 insta.py ```.
+To use the Spammer you must put your login info in the login.json and then run the python file, either by double click or by typing ``` insta.py ``` on Windows or ``` python3 insta.py ``` on Linux.
 Then just enter your Targets Instagram Post (https://www.instagram.com/p/YOURPOSTID) and the Comment you want to send and it will start sending as fast as it can.
 
 ** WARNING ** 
